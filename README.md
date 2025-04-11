@@ -11,4 +11,4 @@ App Python com interface gráfica usando `customtkinter` para testar envio de e-
 
 ## 🛠️ Como rodar
 
-1. Execute o atalho que esta na pasta, ou o .exe na pasta dist
+1. Execute o atalho que esta na raiz, ou o .exe na pasta dist
